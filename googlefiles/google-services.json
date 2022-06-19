@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1021492426215",
+    "firebase_url": "https://myfyp-48f51-default-rtdb.firebaseio.com",
+    "project_id": "myfyp-48f51",
+    "storage_bucket": "myfyp-48f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021492426215:android:32b6c80c7474c5bec87942",
+        "android_client_info": {
+          "package_name": "com.ziameh.ChatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021492426215-hqf68tosttgqq388ekf6h1iibrcmcvpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6EWesvhcGAZ4ve8JFrTFcKGjEmOGFOKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021492426215-hqf68tosttgqq388ekf6h1iibrcmcvpc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1021492426215-8e3mq6q2cj7k4reuloeq6vntdp98q2r5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
